@@ -9,4 +9,8 @@ public class SongDAO {
 	
 	@Autowired
 	private SqlSession session;
+	
+	public void func1() {
+		System.
+	}
 }

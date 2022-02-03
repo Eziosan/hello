@@ -9,4 +9,14 @@ public class AlbumDAO {
 	
 	@Autowired
 	private SqlSession session;
+	
+	public void func1() {
+		System.out.println("함수 1");
+	}
+	public void func2() {
+		System.out.println("함수 2");
+	}
+	public void func3() {
+		System.out.println("함수 3");
+	}
 }
