@@ -11,6 +11,18 @@ public class SongDAO {
 	private SqlSession session;
 	
 	public void func1() {
-		System.
+		System.out.println("master함수");
+		System.out.println("master함수");
+		System.out.println("master함수");
+	}
+	public void func2() {
+		System.out.println("master함수");
+		System.out.println("master함수");
+		System.out.println("master함수");
+	}
+	public void func3() {
+		System.out.println("master함수");
+		System.out.println("master함수");
+		System.out.println("master함수");
 	}
 }
