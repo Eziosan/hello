@@ -16,11 +16,7 @@ public class SongDAO {
 		System.out.println("is");
 		System.out.println("바보");
 	}
-	public void func4() {
-		System.out.println("전진");
-		System.out.println("is");
-		System.out.println("아이디어뱅크");
-	}
+	
 	public void func5() {
 		System.out.println("박화원");
 		System.out.println("is");
