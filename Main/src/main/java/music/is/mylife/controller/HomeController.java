@@ -22,7 +22,7 @@ public class HomeController {
 	
 	@RequestMapping(value = "test", method = RequestMethod.GET)
 	public String test() {
-		System.out.println("이루삐가 수정한 내용ㄴ");
+		System.out.println("이루삐, 수정 하지마");
 		
 		return "test";
 	}
