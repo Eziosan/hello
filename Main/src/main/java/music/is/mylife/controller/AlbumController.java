@@ -17,4 +17,5 @@ public class AlbumController {
 //		
 //		
 //	}
+	system.out.printout("충돌중");
 }
