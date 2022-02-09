@@ -17,4 +17,5 @@ public class AlbumController {
 //		
 //		
 //	}
+	System.out.println("화원 코드 추가");
 }
